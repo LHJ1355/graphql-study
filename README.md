@@ -1,2 +1,2 @@
-# graphql-study
+# Graphql-Study
 graphql-study
